@@ -1,0 +1,6 @@
+[23-Feb-2021 19:29:48] [localhost/teodoradr2020php/crud_books/inregistrare.php] : [INFO] - Ip utilizator: 127.0.0.1
+[23-Feb-2021 19:29:50] [localhost/teodoradr2020php/crud_books/inregistrare.php] : [INFO] - Ip utilizator: 127.0.0.1
+[23-Feb-2021 19:34:23] [localhost/teodoradr2020php/crud_books/inregistrare.php] : [INFO] - Ip utilizator: 127.0.0.1
+[23-Feb-2021 19:40:09] [localhost/teodoradr2020php/crud_books/inregistrare.php] : [INFO] - Ip utilizator: 127.0.0.1
+[23-Feb-2021 19:45:18] [localhost/teodoradr2020php/crud_books/inregistrare.php] : [INFO] - Ip utilizator: 127.0.0.1
+[23-Feb-2021 19:45:33] [localhost/teodoradr2020php/crud_books/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: 127.0.0.1
